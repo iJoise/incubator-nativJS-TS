@@ -1,4 +1,5 @@
-import {GovernmentBuildingType, HouseType} from "../secondLessonObjects/02_02";
+import {GovernmentBuildingType, HouseType} from "../02LessonObjects/02_02";
+
 
 export type ManType = {
     name: string
